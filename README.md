@@ -76,12 +76,6 @@ Contributions are welcome!
 4. Open a pull request
 
 
-## 🙌 Acknowledgements
-
-Inspired by the original Flappy Bird game.
-
-```
-
 ## 👤 Author
 
 **HOSEN ARAFAT**  
