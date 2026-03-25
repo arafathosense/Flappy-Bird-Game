@@ -81,3 +81,13 @@ Contributions are welcome!
 Inspired by the original Flappy Bird game.
 
 ```
+
+## 👤 Author
+
+**HOSEN ARAFAT**  
+
+**Bachelor of Software Engineering, China**  
+
+**GitHub:** https://github.com/arafathosense
+
+**Research Interest: Image Computing and Perceptual Intelligence**
